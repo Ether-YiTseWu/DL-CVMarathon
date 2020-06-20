@@ -8,4 +8,6 @@ An Online Flipped Classroom relating to deep learning and computer vision.
 - [Day 3 顏色相關的預處理 (改變亮度, 色差)](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day003_color_spave_op_HW.ipynb)
 - [Day 4 以圖片為例做矩陣操作 (翻轉, 縮放, 平移)](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day004_geometric_transform_HW.ipynb)
 - [Day 5 透過 OpenCV 做圖並顯示 (長方形, 圓形, 直線, 填色)](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day005_draw_HW.ipynb)
+- [Day 6 affine transformation 概念與實作](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day005_draw_HW.ipynb)
+- [Day 7 perspective transformation 概念與實作](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day007_perspective%20transformation_SampleToHW.ipynb)
 ### Part02：電腦視覺深度學習基礎   
