@@ -10,4 +10,8 @@ An Online Flipped Classroom relating to deep learning and computer vision.
 - [Day 5 透過 OpenCV 做圖並顯示 (長方形, 圓形, 直線, 填色)](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day005_draw_HW.ipynb)
 - [Day 6 affine transformation 概念與實作](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day005_draw_HW.ipynb)
 - [Day 7 perspective transformation 概念與實作](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day007_perspective%20transformation_SampleToHW.ipynb)
+- [Day 8 Filter 操作 (Sobel edge detect, Gaussian Blur)](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day008_sobel_gaussian_blur_HW.ipynb)
+- [Day 9 SIFT 介紹與實作 (feature extractor)](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day009_SIFT%20Feature%20Extractor_SampleToHW.ipynb)
+- [Day 10 SIFT 其他應用 (keypoint matching)](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day010_keypoint%20matching_SampleToHW.ipynb)
+>
 ### Part02：電腦視覺深度學習基礎   
