@@ -15,3 +15,10 @@ An Online Flipped Classroom relating to deep learning and computer vision.
 - [Day 10 SIFT 其他應用 (keypoint matching)](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day010_keypoint%20matching_SampleToHW.ipynb)
 >
 ### Part02：電腦視覺深度學習基礎   
+- [Day 11 CNN 分類器架構：卷積層](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day011_CNN_%E8%A8%88%E7%AE%97%E5%8F%83%E6%95%B8%E9%87%8F_HW.ipynb)
+- [Day 12 CNN 分類器架構：步長、填充](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day012_Strides%20and%20Padding_HW.ipynb)
+- [Day 13 CNN 分類器架構：池化層、全連接層](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day013_%E6%B1%A0%E5%8C%96%E3%80%81%E5%85%A8%E9%80%A3%E6%8E%A5%E5%B1%A4_HW.ipynb)
+- [Day 14 CNN 分類器架構：Batch Normalization](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day014_Batch%20Normalization_HW.ipynb)
+- [Day 15 訓練一個 CNN 分類器：Cifar10 為例](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day015_Cifar_HW.ipynb)
+>
+### Part03：CNN應用案例學習    
