@@ -22,3 +22,7 @@ An Online Flipped Classroom relating to deep learning and computer vision.
 - [Day 15 訓練一個 CNN 分類器：Cifar10 為例](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day015_Cifar_HW.ipynb)
 >
 ### Part03：CNN應用案例學習    
+>
+### Part04：電腦視覺深度學習實戰
+>
+# 期末專題：
