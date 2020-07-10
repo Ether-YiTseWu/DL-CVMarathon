@@ -20,8 +20,15 @@ An Online Flipped Classroom relating to deep learning and computer vision.
 - [Day 13 CNN 分類器架構：池化層、全連接層](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day013_%E6%B1%A0%E5%8C%96%E3%80%81%E5%85%A8%E9%80%A3%E6%8E%A5%E5%B1%A4_HW.ipynb)
 - [Day 14 CNN 分類器架構：Batch Normalization](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day014_Batch%20Normalization_HW.ipynb)
 - [Day 15 訓練一個 CNN 分類器：Cifar10 為例](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day015_Cifar_HW.ipynb)
+- [Day 16 如何使用Data Augmentation](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day016_Image%20Augmentation_HW.ipynb)
+- [Day 18 VGG16 and 19](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day018_Vgg16_HW.ipynb)
+- [Day 19 InceptionV1-V3](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day019_Inception_HW.ipynb)
+- [Day 20 ResNetV1-V2、InceptionV4、Inception-ResNet](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day020_Classic%20CNN-ResNet%E3%80%81InceptionV4%E3%80%81Inception-ResNet_HW.ipynb)
+- [Day 21 Transfer learning](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day021_Transfer%20Learning_HW.ipynb)
+- [Day 22 Breaking Captchas with a CNN](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day022_Captcha_HW.ipynb)
 >
-### Part03：CNN應用案例學習    
+### Part03：CNN應用案例學習   
+- [Day 23 Object detection原理](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day023_Object%20detection%E5%8E%9F%E7%90%86_HW.ipynb)
 >
 ### Part04：電腦視覺深度學習實戰
 >
