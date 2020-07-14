@@ -29,6 +29,10 @@ An Online Flipped Classroom relating to deep learning and computer vision.
 >
 ### Part03：CNN應用案例學習   
 - [Day 23 Object detection原理](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day023_Object%20detection%E5%8E%9F%E7%90%86_HW.ipynb)
+- [Day 25 Region Proposal、IOU概念](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day025_IOU_HW.ipynb)
+- [Day 26 RPN架構介紹](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day026_RPN_HW.ipynb)
+- [Day 27 Bounding Box Regression原理](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day027_BBOX%20Regression_HW.ipynb)
+- [Day 28 Non-Maximum Suppression (NMS)原理](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day028_NMS_HW.ipynb)
 >
 ### Part04：電腦視覺深度學習實戰
 >
