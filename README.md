@@ -33,6 +33,14 @@ An Online Flipped Classroom relating to deep learning and computer vision.
 - [Day 26 RPN架構介紹](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day026_RPN_HW.ipynb)
 - [Day 27 Bounding Box Regression原理](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day027_BBOX%20Regression_HW.ipynb)
 - [Day 28 Non-Maximum Suppression (NMS)原理](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day028_NMS_HW.ipynb)
+- [Day 29~31 程式導讀、實作](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day029~31_Build%20SSD_VGG_HW.ipynb)
+- [Day 32 YOLO 簡介及算法理解](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day032_yolo_prediction_HW.ipynb)
+- [Day 33 YOLO 細節理解 - 網路輸出的後處理](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day033_YOLO%20%E7%B4%B0%E7%AF%80%E7%90%86%E8%A7%A3%20-%20%E7%B6%B2%E8%B7%AF%E8%BC%B8%E5%87%BA%E7%9A%84%E5%BE%8C%E8%99%95%E7%90%86_HW.ipynb)
+- [Day 34 YOLO 細節理解 - 損失函數](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day034_YOLO%20%E7%B4%B0%E7%AF%80%E7%90%86%E8%A7%A3%20-%20%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8_HW.ipynb)
+- [Day 35 YOLO 細節理解 - 損失函數程式碼解讀](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day035_yolo_loss_HW.ipynb)
+- [Day 36 YOLO 細節理解 - 網路架構](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day036_YOLO%20%E7%B4%B0%E7%AF%80%E7%90%86%E8%A7%A3-%E7%B6%B2%E7%B5%A1%E6%9E%B6%E6%A7%8B_HW.ipynb)
+- [Day 39 使用 YOLOv3 偵測圖片及影片中的物件](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day039_yolov3_keras_HW.ipynb)
+- [Day 40 更快的檢測模型 - tiny YOLOv3](https://github.com/tailer954/DL-CVMarathon/blob/master/homework/Day040_tiny_yolov3_keras_HW.ipynb)
 >
 ### Part04：電腦視覺深度學習實戰
 >
